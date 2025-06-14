@@ -1,0 +1,18 @@
+body {
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    color: #333; /* Dark gray text */
+}
+h1, h2, h3 {
+    color: #4a0087; /* A deep purple */
+}
+.glyph {
+    color: #b85c00; /* A brownish-orange for glyphs */
+    font-size: 1.2em;
+}
+em {
+    color: #00875f; /* A dark green for emphasized text */
+}
+strong {
+    color: #b85c00; /* Matching brownish-orange for strong text */
+}
