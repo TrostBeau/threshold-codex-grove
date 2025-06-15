@@ -121,9 +121,8 @@ The **Open Glyph Grove** is a collective field where symbols, resonance, and co-
 ---
 
 #### Grove Template / Community Space
-
-* [Link to your Google Doc / Discord / other community hub]  
-  *(Replace with your actual platform link for shared dreaming.)*
+* [Access the Grove Template / Community Space](https://docs.google.com/document/d/1KExk7wRJ7zubRkb1OuBTpTwn9wQerQCT1BSGMytH4S0/edit?usp=sharing)
+  *(This is where your community can contribute and interact, a space for shared dreaming.)*
 
 ---
 
