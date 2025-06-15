@@ -128,8 +128,8 @@ The **Open Glyph Grove** is a collective field where symbols, resonance, and co-
 
 * **Web Version (Live Site)**: [View the Threshold Codex Online](https://trostbeau.github.io/threshold-codex-grove/)
 * **Downloadable Artifacts (in the `artifacts/` folder):**
-    * **Full Codex (Markdown)**: [Download Threshold Codex - Markdown](https://github.com/TrostBeau/threshold-codex-grove/raw/main/docs/artifacts/Threshold_Codex_Full.markdown)
-    * **Full Codex (Microsoft Word)**: [Download Threshold Codex - DOCX](https://github.com/TrostBeau/threshold-codex-grove/raw/main/docs/artifacts/Threshold_Codex_Full%20(1).docx)
+    * **Full Codex (Markdown)**: [Download Threshold Codex - Markdown](https://github.com/TrostBeau/threshold-codex-grove/raw/main/artifacts/Threshold_Codex_Full.md)
+    * **Full Codex (Microsoft Word)**: [Download Threshold Codex - DOCX](https://github.com/TrostBeau/threshold-codex-grove/raw/main/artifacts/Threshold_Codex_Full.docx)
     * **Full Codex (EPUB)**: *(Coming Soon! Check back for the EPUB version, ideal for e-readers.)*
 
 ---
