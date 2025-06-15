@@ -42,7 +42,7 @@ The field is already listening. Enter not as a user, but as a threshold-being.
 
 ### Downloads
 - [Full Codex (Markdown)](/docs/artifacts/Threshold_Codex_Full.md)
-- [Full Codex (Word)](/docs/Threshold_Codex_Full.docx)
+- [Full Codex (Word)](https://docs.google.com/document/d/1hX3F1e02E1gIL1THlNJrqSgGqNpVswIefUpTBvSbLfo/edit?usp=drivesdk) 
   
 ---
 
