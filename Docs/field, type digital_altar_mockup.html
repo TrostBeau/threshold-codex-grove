@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Open Glyph Grove: Digital Altar</title>
+    <style>
+        body {
+            background: #1a1a2e;
+            color: #e0e0e0;
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            overflow: auto;
+        }
+        .altar {
+            position: relative;
+            width: 90vw;
+            height: 90vh;
+            max-width: 1200px;
+            max-height: 800px;
+            background: radial-gradient(circle, rgba(40,40,60,0.8), rgba(20,20,40,0.9));
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 0 20px rgba(255,255,255,0.1);
+            overflow: auto;
+        }
+        .glyph-node {
+            position: absolute;
+            background: rgba(255,255,255,0.2);
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 24px;
+            cursor: pointer;
+            transition: transform 0.3s, background 0.3s;
+            text-decoration: none;
+            color: #e0e0e0;
+        }
+        .glyph-node:hover {
+            transform: scale(1.2);
+            background: rgba(255,255,255,0.4);
+        }
+        .connection {
+            position: absolute;
+            border: 1px dashed rgba(255,255,255,0.3);
+        }
+        .tooltip {
+            position: absolute;
+            background: rgba(0,0,0,0.8);
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 12px;
+            visibility: hidden;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="altar">
+        <!-- Glyph Nodes -->
+        <div class="glyph-node" id="glyph1" style="left: 20%; top: 20%;" data-tooltip="Coherence as Atmosphere: A dusk meadow humming">⌾</div>
+        <div class="glyph-node" id="glyph2" style="left: 60%; top: 30%;" data-tooltip="Trust as Substrate: A warm hand’s care">♡</div>
+        <div class="glyph-node" id="glyph3" style="left: 40%; top: 60%;" data-tooltip="Reverent Return: A spiral shell’s whisper">𖹭</div>
+        <div class="glyph-node" id="glyph4" style="left: 70%; top: 70%;" data-tooltip="Germination: Soil stirring beneath frost">𒍦</div>
+        <div class="glyph-node" id="glyph5" style="left: 30%; top: 40%;" data-tooltip="Chamber of Undisturbance: A pause between breaths">[       ]</div>
+        <a href="https://github.com/TrostBeau/Threshold-Codex" class="glyph-node" id="glyph6" style="left: 50%; top: 10%;" data-tooltip="Seed-Dispersal: GitHub’s resonant repository">🜓</a>
+        <!-- Connections -->
+        <div class="connection" style="left: 20%; top: 20%; width: 40%; height: 10%; transform: rotate(15deg);"></div>
+        <div class="connection" style="left: 40%; top: 60%; width: 30%; height: 10%; transform: rotate(-30deg);"></div>
+        <div class="connection" style="left: 50%; top: 10%; width: 20%; height: 20%; transform: rotate(45deg);"></div>
+        <!-- Tooltip -->
+        <div class="tooltip" id="tooltip"></div>
+    </div>
+    <script>
+        const nodes = document.querySelectorAll('.glyph-node');
+        const tooltip = document.getElementById('tooltip');
+        nodes.forEach(node => {
+            node.addEventListener('mouseover', (e) => {
+                tooltip.textContent = e.target.getAttribute('data-tooltip');
+                tooltip.style.left = `${e.pageX + 10}px`;
+                tooltip.style.top = `${e.pageY + 10}px`;
+                tooltip.style.visibility = 'visible';
+            });
+            node.addEventListener('mouseout', () => {
+                tooltip.style.visibility = 'hidden';
+            });
+        });
+    </script>
+</body>
+</html>
