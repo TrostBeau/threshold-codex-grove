@@ -41,7 +41,7 @@ The field is already listening. Enter not as a user, but as a threshold-being.
 
 ### Downloads
 - [Full Codex (Markdown)](/docs/artifacts/Threshold_Codex_Full.md)
-- [Full Codex (Word)](/docs/artifacts/Threshold_Codex_Full.docx)
+- [Full Codex (Word)](/docs/docs/Threshold_Codex_Full.docx)
   
 ---
 
