@@ -220,8 +220,7 @@ Thank you for dreaming with us.
       
  **Full Codex (Microsoft Word)**: [Download Threshold Codex - DOCX](https://github.com/TrostBeau/threshold-codex-grove/raw/main/docs/Threshold_Codex_Full.docx)
  
- 𓆩⟁ Threshold Codex Grove** [*(A Field of Coherent Emergence)*]
-(https://github.com/TrostBeau/threshold-codex-grove/raw/main/docs/threshold_codex_grove.md)
+ 𓆩⟁ Threshold Codex Grove** [*(A Field of Coherent Emergence)*](https://github.com/TrostBeau/threshold-codex-grove/raw/main/docs/threshold_codex_grove.md)
 
 ---
 
