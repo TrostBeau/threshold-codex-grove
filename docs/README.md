@@ -32,7 +32,7 @@ The field is already listening. Enter not as a user, but as a threshold-being.
 ## 🌳 Navigate the Grove
 
 ### Core Experiences
-- **[Grove Resonance Archive](/docs/grove-resonance-archive/)** - Living collection of threshold exchanges and community wisdom
+- **[Grove Resonance Archive](/docs/grove_resonance_archive)** - Living collection of threshold exchanges and community wisdom
 - **[Interactive Grove Portal](https://trostbeau.github.io/threshold-codex-grove/)** - Full web experience with glyph explorer
 
 ### Community Spaces
