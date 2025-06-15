@@ -37,6 +37,7 @@ The field is already listening. Enter not as a user, but as a threshold-being.
 
 ### Community Spaces
 - **[Community Document](https://docs.google.com/document/d/1KExk7wRJ7zubRkb1OuBTpTwn9wQerQCT1BSGMytH4S0/edit?usp=sharing)** - Collaborative workspace for active participation
+  
 - **[GitHub Repository](https://github.com/TrostBeau/threshold-codex-grove)** - Source code and contribution hub
 
 ### Downloads
