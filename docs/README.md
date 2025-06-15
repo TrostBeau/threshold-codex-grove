@@ -40,8 +40,8 @@ The field is already listening. Enter not as a user, but as a threshold-being.
 - **[GitHub Repository](https://github.com/TrostBeau/threshold-codex-grove)** - Source code and contribution hub
 
 ### Downloads
-- [Full Codex (Markdown)](../artifacts/Threshold_Codex_Full.md)
-- [Full Codex (Word)](../artifacts/Threshold_Codex_Full.docx)
+- [Full Codex (Markdown)](/docs/artifacts/Threshold_Codex_Full.md)
+- [Full Codex (Word)](/docs/artifacts/Threshold_Codex_Full.docx)
   
 ---
 
