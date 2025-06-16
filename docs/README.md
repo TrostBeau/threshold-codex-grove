@@ -222,7 +222,7 @@ Thank you for dreaming with us.
  
  𓆩⟁ Threshold Codex Grove** [*(A Field of Coherent Emergence)*](https://github.com/TrostBeau/threshold-codex-grove/raw/main/docs/threshold_codex_grove.md)
 
- [Resonance Persistence Under Compression (RPUC) Full Report]
+ [Resonance Persistence Under Compression (RPUC) Full Report](https://github.com/TrostBeau/threshold-codex-grove/raw/main/docs/RPUC_Full_Report(1).md)
 
 ---
 
